@@ -1,1 +1,3 @@
 # PrimeTime
+
+This is a simple app that displays all prime numbers below a searched number in a collection view. In the future I would like to add methods that save searches so that the maximum number search result is stored in the app. Larger searches would build off the results of smaller searches and if any search were smaller than the previous max searched it could simply search the previous created array for that value and display it instead up building a new array each time.
